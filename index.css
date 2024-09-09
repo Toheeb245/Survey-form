@@ -1,0 +1,22 @@
+section{
+    text-align: center;
+}
+body{
+    background-color: limegreen;
+}
+.io{
+    background-color: white;
+    max-width: 500;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+#pl{
+    text-align: center;
+    background-color: rgb(29, 216, 29);
+}
+button{
+    color:rgb(29, 216, 29) ;
+}
+
+  
